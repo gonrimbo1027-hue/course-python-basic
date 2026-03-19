@@ -62,6 +62,64 @@ Python을 활용하여 구조적 프로그래밍의 핵심 원리를 익히고, 
 | p05.py | 자료형에 따른 연산 차이 확인 |
 | p06.py | 자료형 변환 활용하기 |
 
+### ch03 - 연산자 (Operators)
+
+**예제**
+| 파일 | 내용 |
+|------|------|
+| ex01_arithmetic.py | 산술 연산자 (+, -, *, /, //, %, **) |
+| ex02_string_operators.py | 문자열 연산자 (+, *) |
+| ex03_type_casting.py | 묵시적/명시적 형변환 |
+| ex04_comparison.py | 비교 연산자 |
+| ex05_logical.py | 논리 연산자 (and, or, not) |
+| ex06_assignment.py | 복합 대입 연산자 (+=, -= 등) |
+| ex07_operator_precedence.py | 연산자 우선순위와 괄호 |
+
+**실습**
+| 파일 | 내용 |
+|------|------|
+| p01.py | 간단한 계산기 |
+| p02.py | 거스름돈 계산 |
+| p03.py | 문자열 꾸미기 |
+| p04.py | 합격 판정 |
+| p05.py | BMI 계산기 |
+| p06.py | 시간 변환 |
+| p07.py | 할인 가격 계산 |
+| p08.py | 윤년 판별 |
+| p09.py | 택시 요금 계산 |
+
+### ch04 - 흐름제어 (Flow Control)
+
+**예제**
+| 파일 | 내용 |
+|------|------|
+| ex00_overview.py | 흐름제어 개요 (순차, 선택, 반복) |
+| ex01_if.py | if 기본 |
+| ex02_if_else.py | if/else |
+| ex03_elif.py | if/elif/else |
+| ex04_nested_if.py | 중첩 조건문 |
+| ex05_for_range.py | for + range() |
+| ex06_for_list.py | for + 리스트 |
+| ex07_while.py | while 반복 |
+| ex08_break_continue.py | break/continue |
+
+**실습**
+| 파일 | 내용 |
+|------|------|
+| p01.py | 홀짝 판별기 |
+| p02.py | 성적 등급 |
+| p03.py | 구구단 출력 |
+| p04.py | 숫자 맞추기 게임 |
+| p05.py | 별 찍기 |
+| p06.py | 가위바위보 |
+| p07.py | 카운트다운 |
+| p08.py | 짝수 합계 |
+| p09.py | 비밀번호 확인 |
+| p10.py | 메뉴 주문 시스템 |
+| p11.py | 약수 구하기 |
+| p12.py | 숫자 피라미드 |
+| p13.py | 미니 성적 관리 |
+
 ## 디렉토리 구조
 
 ```
