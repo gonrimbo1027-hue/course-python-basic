@@ -19,3 +19,9 @@
 20
 글로벌시스템융합과
 """
+name = "고동우" 
+age = 26 
+major = "글로벌시스템융합과"
+print(name) 
+print(age)
+print(major)
