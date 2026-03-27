@@ -12,6 +12,17 @@
 
 # 아래에 코드를 작성하세요
 
+# 1. 본인의 이름을 저장하는 변수 name을 선언하세요
+name = "고동우" 
+# 2. 본인의 나이를 저장하는 변수 age를 선언하세요
+age = 26 
+# 3. 본인의 학과를 저장하는 변수 major를 선언하세요
+major = "글로벌시스템융합과"
+# 4. 각 변수를 print()로 출력하세요
+print(name) 
+print(age)
+print(major)
+
 
 """
 [실행 결과 예시]
@@ -19,9 +30,3 @@
 20
 글로벌시스템융합과
 """
-name = "고동우" 
-age = 26 
-major = "글로벌시스템융합과"
-print(name) 
-print(age)
-print(major)

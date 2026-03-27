@@ -13,9 +13,13 @@ c = 3.14
 d = False
 
 # 아래에 코드를 작성하세요
+# 문자열
 print(a, type(a))
-print(b, type(b)) 
+# 정수 
+print(b, type(b))
+# 실수
 print(c, type(c)) 
+# 불리언(참 or 거짓) 
 print(d, type(d))
 
 

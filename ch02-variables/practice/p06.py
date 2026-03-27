@@ -9,6 +9,12 @@ price = "4500"
 quantity = "3"
 
 # 아래에 코드를 작성하세요
+# 1. 아래 두 변수를 숫자로 변환합니다.  
+price = int(price)
+quantity = int(quantity) 
+# 2. 총 금액(price * quantity)을 출력합니다. 
+print(price * quantity) 
+
 
 
 # [2] 아래 변수들을 문자열로 연결하여 한 줄로 출력하세요
@@ -17,12 +23,22 @@ name = "홍길동"
 score = 95
 
 # 아래에 코드를 작성하세요
-
+# 1. 아래 변수들을 문자열로 연결합니다
+score = str(score) 
+# 2. 그리고 한줄로 출력합니다. 
+# 출력 형식: "홍길동님의 점수는 95점입니다."
+print(name + "님의 점수는 " + score + "점입니다.") 
 
 # [3] 사용자로부터 두 숫자를 입력받아 합계를 출력하세요
 #     힌트: input()은 항상 문자열을 반환합니다
 
 # 아래에 코드를 작성하세요
+num1 = int(input("첫 번째 숫자: "))
+num2 = int(input("두 번째 숫자: ")) 
+
+print("합계:", num1 + num2) 
+# 대소문자 구분 필수
+ 
 
 
 """
